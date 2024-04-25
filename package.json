@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "music-player-final",
   "version": "1.0.0",
   "main": "expo-router/entry",
@@ -34,4 +35,16 @@
     "typescript": "^5.1.3"
   },
   "private": true
+=======
+  "name": "music-player-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> d81b117d1785141e944cad6c8a6ab0633113766c
 }
